@@ -1,0 +1,7 @@
+C:\Users\Ultrabytes\AppData\Local\Temporary Projects\PARCIAL 1 LAB oratorio2\bin\Debug\PARCIAL 1 LAB oratorio2.exe.config
+C:\Users\Ultrabytes\AppData\Local\Temporary Projects\PARCIAL 1 LAB oratorio2\bin\Debug\PARCIAL 1 LAB oratorio2.exe
+C:\Users\Ultrabytes\AppData\Local\Temporary Projects\PARCIAL 1 LAB oratorio2\bin\Debug\PARCIAL 1 LAB oratorio2.pdb
+C:\Users\Ultrabytes\AppData\Local\Temporary Projects\PARCIAL 1 LAB oratorio2\obj\Debug\PARCIAL 1 LAB oratorio2.csprojAssemblyReference.cache
+C:\Users\Ultrabytes\AppData\Local\Temporary Projects\PARCIAL 1 LAB oratorio2\obj\Debug\PARCIAL 1 LAB oratorio2.csproj.CoreCompileInputs.cache
+C:\Users\Ultrabytes\AppData\Local\Temporary Projects\PARCIAL 1 LAB oratorio2\obj\Debug\PARCIAL 1 LAB oratorio2.exe
+C:\Users\Ultrabytes\AppData\Local\Temporary Projects\PARCIAL 1 LAB oratorio2\obj\Debug\PARCIAL 1 LAB oratorio2.pdb
